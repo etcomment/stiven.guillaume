@@ -39,7 +39,8 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 ### <a name='SynaleMemories'>Synale Memories
 
 ![](http://ladiagonaledupoulpe.fr/wp-content/uploads/2020/11/ladiagonaledupoulpe_logo.IGXF8acoEKhz.png)
-![Website of the project](https://ladiagonaledupoulpe.fr/synale-memories/)
+	
+[https://ladiagonaledupoulpe.fr/synale-memories/](https://ladiagonaledupoulpe.fr/synale-memories/)
 
 ### <a name='Etikabox'>Etikabox
 
