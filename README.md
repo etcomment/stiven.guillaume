@@ -54,6 +54,9 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - [X] Project presentation 
 
 ### <a name='Project2'>Project 2
+- [x] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
 ### <a name='Project3'>Project 3
 ### <a name='Project4'>Project 4
 ### <a name='Project5'>Project 5
