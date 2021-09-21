@@ -49,21 +49,21 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 ## <a name='AboutsomeOpenClassRoomsproject'>About some OpenClassRooms project
 
 ### <a name='Project1'>Project 1 : *Entrez dans votre formation d'architecte logiciel*
-- [x] Finish courses
-- [x] Finish project files
-- [x] Project presentation 
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
 - VALIDÉ
 
 ### <a name='Project2'>Project 2 : *Définissez le périmètre de votre projet en accord avec votre client*
-- [x] Finish courses
-- [x] Finish project files
-- [x] Project presentation 
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
 - VALIDÉ
 	
 ### <a name='Project3'>Project 3 : *Faites l'audit d'une architecture existante et proposez une nouvelle solution*
-- [x] Finish courses
-- [x] Finish project files
-- [x] Project presentation 
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
 - Waiting for validation
 	
 ### <a name='Project4'>Project 4
