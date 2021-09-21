@@ -63,8 +63,9 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 ### <a name='Project3'>Project 3 : *Faites l'audit d'une architecture existante et proposez une nouvelle solution*
 - [x] Finish courses
 - [x] Finish project files
-- Project presentation 
-
+- [x] Project presentation 
+- Waiting for validation
+	
 ### <a name='Project4'>Project 4
 ### <a name='Project5'>Project 5
 ### <a name='Project6'>Project 6
