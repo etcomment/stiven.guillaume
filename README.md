@@ -69,9 +69,14 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 ### <a name='Project4'>Project 4 : *Cherchez les solutions pour optimiser la mise à niveau d'une architecture*
 - ✅ Finish courses
 - ✅ Finish project files
-- Project presentation : 27/10/21
+- ✅ Project presentation 
+- VALIDÉ
 
-### <a name='Project5'>Project 5
+### <a name='Project5'>Project 5 : *Concevez une nouvelle architecture afin de soutenir le développement de votre entreprise*
+- Finish courses
+- Finish project files
+- Project presentation
+	
 ### <a name='Project6'>Project 6
 ### <a name='Project7'>Project 7
 ### <a name='Project8'>Project 8
