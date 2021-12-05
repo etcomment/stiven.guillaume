@@ -52,30 +52,31 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - ✅ Finish courses
 - ✅ Finish project files
 - ✅ Project presentation 
-- VALIDÉ
+- SUCCESS
 
 ### <a name='Project2'>Project 2 : *Définissez le périmètre de votre projet en accord avec votre client*
 - ✅ Finish courses
 - ✅ Finish project files
 - ✅ Project presentation 
-- VALIDÉ
+- SUCCESS
 	
 ### <a name='Project3'>Project 3 : *Faites l'audit d'une architecture existante et proposez une nouvelle solution*
 - ✅ Finish courses
 - ✅ Finish project files
 - ✅ Project presentation 
-- VALIDÉ
+- SUCCESS
 	
 ### <a name='Project4'>Project 4 : *Cherchez les solutions pour optimiser la mise à niveau d'une architecture*
 - ✅ Finish courses
 - ✅ Finish project files
 - ✅ Project presentation 
-- VALIDÉ
+- SUCCESS
 
 ### <a name='Project5'>Project 5 : *Concevez une nouvelle architecture afin de soutenir le développement de votre entreprise*
-- Finish courses
-- Finish project files
-- Project presentation
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
 	
 ### <a name='Project6'>Project 6
 ### <a name='Project7'>Project 7
