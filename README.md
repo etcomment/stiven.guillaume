@@ -36,12 +36,6 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 
 ## <a name='Somepersonnalprojects'>Some personnal projects
 
-### <a name='SynaleMemories'>Synale Memories
-
-![](http://ladiagonaledupoulpe.fr/wp-content/uploads/2020/11/ladiagonaledupoulpe_logo.IGXF8acoEKhz.png)
-	
-[https://ladiagonaledupoulpe.fr/synale-memories/](https://ladiagonaledupoulpe.fr/synale-memories/)
-
 ### <a name='Etikabox'>Etikabox
 
 ### <a name='DoudouOmaticLoverOmatic'>DoudouOmatic / LoverOmatic
@@ -78,8 +72,17 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - ✅ Project presentation 
 - SUCCESS
 	
-### <a name='Project6'>Project 6
+### <a name='Project6'>Project 6 : *Créez une application de communication multiplateforme*
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
+	
 ### <a name='Project7'>Project 7
+- Finish courses
+- Finish project files
+- Project presentation 
+- IN PROGRESS
 ### <a name='Project8'>Project 8
 ### <a name='Project9'>Project 9
 ### <a name='Project10'>Project 10
