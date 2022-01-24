@@ -3,7 +3,6 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 
 * [Whoami?](#Whoami)
 * [Some personnal projects](#Somepersonnalprojects)
-  * [Synale Memories](#SynaleMemories)
 	* [Etikabox](#Etikabox)
 	* [DoudouOmatic / LoverOmatic](#DoudouOmaticLoverOmatic)
 * [About some OpenClassRooms project](#AboutsomeOpenClassRoomsproject)
