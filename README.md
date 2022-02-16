@@ -77,12 +77,17 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - ✅ Project presentation 
 - SUCCESS
 	
-### <a name='Project7'>Project 7
+### <a name='Project7'>Project 7 : *Réalisez un plan d'implémentation pour assurer le bon déroulement de votre projet d'architecture*
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
+	
+### <a name='Project8'>Project 8
 - Finish courses
 - Finish project files
 - Project presentation 
 - IN PROGRESS
-### <a name='Project8'>Project 8
 ### <a name='Project9'>Project 9
 ### <a name='Project10'>Project 10
 ### <a name='Project11'>Project 11
