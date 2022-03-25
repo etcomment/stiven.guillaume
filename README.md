@@ -84,8 +84,8 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - SUCCESS
 	
 ### <a name='Project8'>Project 8
-- Finish courses
-- Finish project files
+- ✅ Finish courses
+- ✅ Finish project files
 - Project presentation 
 - IN PROGRESS
 ### <a name='Project9'>Project 9
