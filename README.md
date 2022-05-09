@@ -96,7 +96,7 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - SUCCESS
 	
 ### <a name='Project10'>Project 10
-- Finish courses
+- ✅ Finish courses
 - Finish project files
 - Project presentation 
 - Starting
