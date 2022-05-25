@@ -95,10 +95,10 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - ✅Project presentation 
 - SUCCESS
 	
-### <a name='Project10'>Project 10
+### <a name='Project10'>Project 10 : *Coordonnez une équipe de développement pour assurer une livraison efficace*
 - ✅ Finish courses
-- Finish project files
-- Project presentation 
-- Starting
+- ✅ Finish project files
+- ✅ Project presentation 
+
 ### <a name='Project11'>Project 11
 ### <a name='Project12'>Project 12
