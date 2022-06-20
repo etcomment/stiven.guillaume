@@ -101,4 +101,13 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - ✅ Project presentation 
 
 ### <a name='Project11'>Project 11
+- ✅ Finish courses
+- Finish project files
+- Project presentation
+Processing!
+	
 ### <a name='Project12'>Project 12
+- Finish courses
+- Finish project files
+- Project presentation
+Not starting yet
