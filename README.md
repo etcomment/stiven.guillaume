@@ -100,14 +100,14 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - ✅ Finish project files
 - ✅ Project presentation 
 
-### <a name='Project11'>Project 11
+### <a name='Project11'>Project 11 : *Faites adhérer les parties prenantes avec un POC*
 - ✅ Finish courses
-- Finish project files
-- Project presentation
-Processing!
+- ✅ Finish project files
+- ✅ Project presentation
 	
-### <a name='Project12'>Project 12
-- Finish courses
-- Finish project files
-- Project presentation
-Not starting yet
+### <a name='Project12'>Project 12 : *Gérez les changements des exigences dans un projet d'architecture logicielle*
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation
+
+## Course finished ! Waiting for final panel
