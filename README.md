@@ -5,7 +5,19 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 * [Some personnal projects](#Somepersonnalprojects)
 	* [Etikabox](#Etikabox)
 	* [DoudouOmatic / LoverOmatic](#DoudouOmaticLoverOmatic)
-* [About some OpenClassRooms project](#AboutsomeOpenClassRoomsproject)
+* [About some OpenClassRooms "Data Scientist" project](#AboutsomeOpenClassRoomsprojectDS)
+	* [Project 1](#Project1DS)
+  	* [Project 2](#Project2DS)
+	* [Project 3](#Project3DS)
+	* [Project 4](#Project4DS)
+	* [Project 5](#Project5DS)
+	* [Project 6](#Project6DS)
+	* [Project 7](#Project7DS)
+	* [Project 8](#Project8DS)
+	* [Project 9](#Project9DS)
+	* [Project 10](#Project10DS)
+
+* [About some OpenClassRooms "Architecte Logiciel" project](#AboutsomeOpenClassRoomsproject)
 	* [Project 1](#Project1)
 	* [Project 2](#Project2)
 	* [Project 3](#Project3)
@@ -39,7 +51,69 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 
 ### <a name='DoudouOmaticLoverOmatic'>DoudouOmatic / LoverOmatic
 
-## <a name='AboutsomeOpenClassRoomsproject'>About some OpenClassRooms project
+## <a name='AboutsomeOpenClassRoomsprojectDS'>About some OpenClassRooms "Data Scientist" project
+
+### <a name='Project1DS'>Project 1 : *Démarrez votre formation de Data Scientist*
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
+
+### <a name='Project2DS'>Project 2 : *Analysez des données de systèmes éducatifs*
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
+
+### <a name='Project3DS'>Project 3 : *Préparez des données pour un organisme de santé publique*
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
+
+### <a name='Project4DS'>Project 4 : *Anticipez les besoins en consommation de bâtiments*
+- [ ] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
+- SUCCESS
+
+### <a name='Project5DS'>Project 5 : *Segmentez des clients d'un site e-commerce*
+- [ ] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
+- Not yet A SUCCESS
+
+### <a name='Project6FD'>Project 6 : *Classifiez automatiquement des biens de consommation*
+- [ ] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
+- Not yet A SUCCESS
+
+### <a name='Project7DS'>Project 7 : *Implémentez un modèle de scoring*
+- [ ] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
+- Not yet A SUCCESS
+
+### <a name='Project8DS'>Project 8 : *Réalisez un dashboard et assurez une veille technique*
+- [ ] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
+- Not yet A SUCCESS
+
+### <a name='Project9DS'>Project 9 : *Réalisez un traitement dans un environnement Big Data sur le Cloud*
+- [ ] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
+- Not yet A SUCCESS
+
+### <a name='Project10DS'>Project 10 : *Réalisez le cadrage d’un projet IA*
+- [ ] Finish courses
+- [ ] Finish project files
+- [ ] Project presentation 
+- Not yet A SUCCESS
+  
+## <a name='AboutsomeOpenClassRoomsproject'>About some OpenClassRooms "Architecte Logiciel" project
 
 ### <a name='Project1'>Project 1 : *Entrez dans votre formation d'architecte logiciel*
 - ✅ Finish courses
