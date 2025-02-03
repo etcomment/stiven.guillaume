@@ -5,7 +5,7 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 * [Some personnal projects](#Somepersonnalprojects)
 	* [Etikabox](#Etikabox)
 	* [DoudouOmatic / LoverOmatic](#DoudouOmaticLoverOmatic)
- 	* AnalRisk(#analRisk)
+ 	* [AnalRisk](#analRisk)
 * [About some OpenClassRooms "Data Scientist" project](#AboutsomeOpenClassRoomsprojectDS)
 	* [Project 1](#Project1DS)
   	* [Project 2](#Project2DS)
