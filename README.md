@@ -5,6 +5,7 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 * [Some personnal projects](#Somepersonnalprojects)
 	* [Etikabox](#Etikabox)
 	* [DoudouOmatic / LoverOmatic](#DoudouOmaticLoverOmatic)
+ 	* AnalRisk(#analRisk)
 * [About some OpenClassRooms "Data Scientist" project](#AboutsomeOpenClassRoomsprojectDS)
 	* [Project 1](#Project1DS)
   	* [Project 2](#Project2DS)
@@ -35,12 +36,13 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 
 ![](https://github.com/etcomment/stiven.guillaume/blob/main/PICTURES/moi1.jpg)
 
-- Future Software Architect, I hope
+- Currently working as a Data PO (and PMO) in french banking company
+- 2 years after a Software Architect course, I started a new cursus : Data Scientist
 - Currently, I study for that! Name of the school? OpenClassRooms
 - Creator of sciences and technologicals content in a little website named YouTube ;)
-- Father! Maybe the hardest job!
+- Father! A second time :D Maybe the hardest job!
 - Mentor for OpenClassRooms training (Computer Technician and SysAdmin)
-- Best boyfriend as I can! I'm only Human!
+- Best ~~boyfriend~~ husband (!) as I can! I'm only Human!
 - Teacher for young (and less young) student
 
 # What will you find here?
@@ -50,6 +52,8 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 ### <a name='Etikabox'>Etikabox
 
 ### <a name='DoudouOmaticLoverOmatic'>DoudouOmatic / LoverOmatic
+
+### <a name='AnalRisk'>AnalRisk
 
 ## <a name='AboutsomeOpenClassRoomsprojectDS'>About some OpenClassRooms "Data Scientist" project
 
