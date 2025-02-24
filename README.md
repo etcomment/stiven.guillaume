@@ -78,11 +78,11 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 ### <a name='Project4DS'>Project 4 : *Anticipez les besoins en consommation de bâtiments*
 - ✅ Finish courses
 - ✅ Finish project files
-- [ ] Project presentation 
-- Not yet A SUCCESS
+- ✅ Project presentation 
+- SUCCESS
 
 ### <a name='Project5DS'>Project 5 : *Segmentez des clients d'un site e-commerce*
-- [ ] Finish courses
+- ✅ Finish courses
 - [ ] Finish project files
 - [ ] Project presentation 
 - Not yet A SUCCESS
