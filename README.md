@@ -83,15 +83,15 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 
 ### <a name='Project5DS'>Project 5 : *Segmentez des clients d'un site e-commerce*
 - ✅ Finish courses
-- [ ] Finish project files
-- [ ] Project presentation 
-- Not yet A SUCCESS
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
 
 ### <a name='Project6FD'>Project 6 : *Classifiez automatiquement des biens de consommation*
-- [ ] Finish courses
-- [ ] Finish project files
-- [ ] Project presentation 
-- Not yet A SUCCESS
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
 
 ### <a name='Project7DS'>Project 7 : *Implémentez un modèle de scoring*
 - [ ] Finish courses
