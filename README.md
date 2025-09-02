@@ -36,12 +36,13 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 
 ![](https://github.com/etcomment/stiven.guillaume/blob/main/PICTURES/moi1.jpg)
 
-- Currently working as a Data PO (and PMO) in french banking company
+- Currently working as a Data PO (and PMO) in french banking company, employed by MIGSO-PCUBED, where I'm on a good way to be Delivery Manager too
 - 2 years after a Software Architect course, I started a new cursus : Data Scientist
 - Currently, I study for that! Name of the school? OpenClassRooms
 - Creator of sciences and technologicals content in a little website named YouTube ;)
 - Father! A second time :D Maybe the hardest job!
-- Mentor for OpenClassRooms training (Computer Technician and SysAdmin)
+- Mentor for OpenClassrooms training (Computer Technician and SysAdmin)
+- Courses and project creator for Openclassrooms's project
 - Best ~~boyfriend~~ husband (!) as I can! I'm only Human!
 - Teacher for young (and less young) student
 
