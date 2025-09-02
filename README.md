@@ -112,8 +112,8 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - SUCCESS
 
 ### <a name='Project10DS'>Project 10 : *Réalisez le cadrage d’un projet IA*
-- [ ] Finish courses
-- [ ] Finish project files
+- ✅ Finish courses
+- [ ] Finish project files - WIP
 - [ ] Project presentation 
 - Not yet A SUCCESS
   
