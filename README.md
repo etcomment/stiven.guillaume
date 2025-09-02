@@ -94,22 +94,22 @@ Stiven's général github page, with CV, openClassRooms project, and personnal l
 - SUCCESS
 
 ### <a name='Project7DS'>Project 7 : *Implémentez un modèle de scoring*
-- [ ] Finish courses
-- [ ] Finish project files
-- [ ] Project presentation 
-- Not yet A SUCCESS
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
 
 ### <a name='Project8DS'>Project 8 : *Réalisez un dashboard et assurez une veille technique*
-- [ ] Finish courses
-- [ ] Finish project files
-- [ ] Project presentation 
-- Not yet A SUCCESS
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
 
 ### <a name='Project9DS'>Project 9 : *Réalisez un traitement dans un environnement Big Data sur le Cloud*
-- [ ] Finish courses
-- [ ] Finish project files
-- [ ] Project presentation 
-- Not yet A SUCCESS
+- ✅ Finish courses
+- ✅ Finish project files
+- ✅ Project presentation 
+- SUCCESS
 
 ### <a name='Project10DS'>Project 10 : *Réalisez le cadrage d’un projet IA*
 - [ ] Finish courses
